@@ -1,7 +1,7 @@
 ---
 title: Ascent
 thumbnail: "../static/uploads/ascent.jpg"
-year: ''
+year: JPEG
 categories:
 - afrofuturism
 
