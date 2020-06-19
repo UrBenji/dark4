@@ -1,9 +1,8 @@
 ---
-title: The London Book Fair
+title: I Am Not Welcome Here
 thumbnail: "../static/uploads/c0279e51944227.58ff649a8bbfb.jpg"
-year: "2017"
-categories:
-- Branding
+year: ''
+categories: []
 
 ---
 This project was created by [\[explicit\]](https://www.behance.net/explic_it), visit their Behance profile for more awesomeness.
