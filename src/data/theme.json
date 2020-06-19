@@ -1,13 +1,13 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
-  "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "site_name": "UrBen.eth",
+  "header_title": "UrBen",
+  "first_letter_only": false,
+  "email": "urbenji@protonmail.com",
   "social": [
     {
       "channel": "twitter",
-      "handle": "nichlaswa",
-      "link_text": "tw"
+      "handle": "urben",
+      "link_text": "twitter"
     },
     {
       "channel": "instagram",
