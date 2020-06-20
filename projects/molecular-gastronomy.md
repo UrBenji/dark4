@@ -1,7 +1,7 @@
 ---
 title: 1. Into The Ether
 thumbnail: "../static/uploads/ether2.jpg"
-year: January
+year: January 2020
 categories:
 - GIF
 
