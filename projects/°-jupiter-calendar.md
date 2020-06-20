@@ -1,5 +1,5 @@
 ---
-title: 04 - Ascent
+title: Ascent
 thumbnail: "../static/uploads/ascent.jpg"
 year: February
 categories:
