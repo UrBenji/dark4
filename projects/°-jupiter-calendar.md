@@ -1,7 +1,7 @@
 ---
 title: Ascent
 thumbnail: "../static/uploads/ascent.jpg"
-year: 6/2020
+year: June 1st 2020
 categories: []
 
 ---
