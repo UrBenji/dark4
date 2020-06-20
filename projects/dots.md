@@ -1,7 +1,7 @@
 ---
 title: Expression
 thumbnail: "../static/uploads/immersion1.jpg"
-year: 05/20
+year: '05.20'
 categories:
 - art
 
