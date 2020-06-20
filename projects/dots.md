@@ -1,5 +1,5 @@
 ---
-title: Expression
+title: 2. Expression
 thumbnail: "../static/uploads/immersion1.jpg"
 year: April 2020
 categories:
