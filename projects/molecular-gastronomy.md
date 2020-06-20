@@ -1,5 +1,5 @@
 ---
-title: Into The Ether
+title: 1. Into The Ether
 thumbnail: "../static/uploads/ether2.jpg"
 year: January
 categories:
