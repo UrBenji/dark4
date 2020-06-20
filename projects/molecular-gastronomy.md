@@ -1,5 +1,5 @@
 ---
-title: Into The Ether
+title: 01 Into The Ether
 thumbnail: "../static/uploads/ether2.jpg"
 year: January 1st 2020
 categories:
