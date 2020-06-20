@@ -2,8 +2,7 @@
 title: Ascent
 thumbnail: "../static/uploads/ascent.jpg"
 year: JUN 2020
-categories:
-- afrofuturism
+categories: []
 
 ---
 
