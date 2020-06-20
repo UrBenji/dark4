@@ -1,11 +1,8 @@
 ---
-title: 105 collective MOCDA
-thumbnail: "../static/uploads/static1-squarespace.png"
-year: installation
-categories:
-- collab
+title: Into The Ether
+thumbnail: "../static/uploads/ether2.jpg"
+year: GIF
+categories: []
 
 ---
-This project was created by [[explicit]](https://www.behance.net/explic_it), visit their Behance profile for more awesomeness.
-
-![](/uploads/d1eb3270439237.5ba36d85ba378.jpg)![](/uploads/39fa2c70439237.5ba37480eeb2e.gif)![](/uploads/b2fa9a70439237.5ba36d85b97d2.jpg)![](/uploads/70a95970439237.5ba3cd1d868d1.gif)![](/uploads/05ef7170439237.5bae3c249353c.jpg)![](/uploads/e6509c70439237.5ba51d718b01c.jpg)![](/uploads/4decee70439237.5baced37c49e4.jpg)
+![](https://cdn.discordapp.com/attachments/672305339647000599/723726749552345149/IntoTheEther.gif)
