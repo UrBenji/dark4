@@ -1,7 +1,7 @@
 ---
 title: 02 - I Am Not Welcome Here
 thumbnail: "../static/uploads/ac6c18d9-485d-430d-9169-0ceee4db0b06-1.jpg"
-year: JUN 2020
+year: Jun 2020
 categories:
 - WEBM
 - collab
