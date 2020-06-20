@@ -1,7 +1,7 @@
 ---
-title: Ascent
+title: 3. Ascent
 thumbnail: "../static/uploads/ascent.jpg"
-year: February
+year: 'May '
 categories:
 - art
 
