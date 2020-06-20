@@ -1,7 +1,7 @@
 ---
 title: Expression
 thumbnail: "../static/uploads/immersion1.jpg"
-year: WEBM + GIF
+year: MAY 2020
 categories:
 - art
 
