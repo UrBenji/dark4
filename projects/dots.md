@@ -1,7 +1,7 @@
 ---
 title: 03 - Expression
 thumbnail: "../static/uploads/immersion1.jpg"
-year: April 20th 2020
+year: April 2020
 categories:
 - art
 
