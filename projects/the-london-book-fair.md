@@ -6,5 +6,4 @@ categories:
 - collab
 
 ---
-[181226](https://opensea.io/assets/0xfbeef911dc5821886e1dda71586d90ed28174b7d/181226 "181226")
-<nft-card contractAddress="0xfbeef911dc5821886e1dda71586d90ed28174b7d" tokenId="181226"> </nft-card> <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+![](https://cdn.discordapp.com/attachments/672305339647000599/719434963144933436/NuTwitter.gif)![](https://cdn.discordapp.com/attachments/672305339647000599/714052681588670514/AfronautT.gif)![](https://cdn.discordapp.com/attachments/672305339647000599/714052013138378772/Sun-Ra.gif)
