@@ -3,7 +3,7 @@ title: Ascent
 thumbnail: "../static/uploads/ascent.jpg"
 year: May 2020
 categories:
-- art
+- jpeg
 date: 2020-04-30T23:00:00Z
 
 ---
