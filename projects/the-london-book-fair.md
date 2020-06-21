@@ -1,5 +1,5 @@
 ---
-title: 4. I Am Not Welcome Here
+title: I Am Not Welcome Here
 thumbnail: "../static/uploads/ac6c18d9-485d-430d-9169-0ceee4db0b06-1.jpg"
 year: June 2020
 categories:
