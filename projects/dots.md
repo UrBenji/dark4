@@ -5,7 +5,6 @@ year: APRIL 2020
 categories:
 - GIF
 - WEBM
-- art
 date: 2020-04-03T23:00:00Z
 
 ---
