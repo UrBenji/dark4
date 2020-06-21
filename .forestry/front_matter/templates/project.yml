@@ -16,6 +16,15 @@ fields:
   label: categories
   config:
     use_select: false
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - projects/dots.md
 - projects/molecular-gastronomy.md
