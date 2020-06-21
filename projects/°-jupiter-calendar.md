@@ -1,7 +1,7 @@
 ---
-title: 3. Ascent
+title: Ascent
 thumbnail: "../static/uploads/ascent.jpg"
-year: 3 May 15th 2020
+year: May 2020
 categories:
 - art
 date: 2020-04-30T23:00:00Z
