@@ -4,6 +4,7 @@ thumbnail: "../static/uploads/ether2.jpg"
 year: ''
 categories:
 - GIF
+date: 2020-01-01T00:00:00Z
 
 ---
 ![](/uploads/ether1.jpg)
