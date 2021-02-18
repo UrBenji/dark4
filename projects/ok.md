@@ -1,6 +1,6 @@
 ---
 title: OK
-thumbnail: ''
+thumbnail: "../static/uploads/f6477e60883469.5a5cccc98834b.jpg"
 year: 2021/1
 categories: []
 date: 
