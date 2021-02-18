@@ -1,5 +1,5 @@
 ---
-title: Rhythm
+title: RHYTHM
 thumbnail: "../static/uploads/rhythmt.gif"
 year: JAN 2021
 categories:
