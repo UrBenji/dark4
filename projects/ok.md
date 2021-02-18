@@ -6,4 +6,4 @@ categories: []
 date: 2021-01-01T00:00:00Z
 
 ---
-{{CODEfold}}
+# [❑](https://knownorigin.io/gallery/270950-rhythm "Rhythm")
