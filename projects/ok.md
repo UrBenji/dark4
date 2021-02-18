@@ -1,9 +1,9 @@
 ---
 title: OK
 thumbnail: "../static/uploads/f6477e60883469.5a5cccc98834b.jpg"
-year: 2021/1
+year: JAN 2021
 categories: []
-date: 
+date: 2021-01-01T00:00:00Z
 
 ---
 <div className="nft-embed"></div>
