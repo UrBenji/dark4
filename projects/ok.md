@@ -2,7 +2,8 @@
 title: Rhythm
 thumbnail: "../static/uploads/rhythmt.gif"
 year: JAN 2021
-categories: []
+categories:
+- GIF
 date: 2021-01-01T00:00:00Z
 
 ---
