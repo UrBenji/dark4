@@ -14,4 +14,6 @@ date: 2020-05-31T23:00:00.000+00:00
 
 > Music and art blend together in this first ETHGANG collaboration between UrBen and Jokreg.
 >
-> An abstract analogy, intimate union of sound and visuals to express something words cannot describe. [VIEW](https://knownorigin.io/gallery/181225-i-am-not-welcome-here "I Am Not Welcome Here")
+> An abstract analogy, intimate union of sound and visuals to express something words cannot describe. 
+
+> [VIEW](https://knownorigin.io/gallery/181225-i-am-not-welcome-here "I Am Not Welcome Here")
