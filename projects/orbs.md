@@ -9,4 +9,4 @@ date: 2020-04-30T23:00:00Z
 ---
 # [COLLECT ❑](https://knownorigin.io/gallery/169750-orbs "Orbs")
 
-#### **0.3 ETH - 1 of 1**
+#### **Ξ 0.30** 
