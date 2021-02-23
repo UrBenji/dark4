@@ -9,4 +9,4 @@ date: 2021-01-01T00:00:00Z
 ---
 # [COLLECT ❑](https://knownorigin.io/gallery/270950-rhythm "Rhythm")
 
-#### **1 ETH  - 1 of 1**
+#### Ξ 0.50 
