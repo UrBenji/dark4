@@ -7,4 +7,6 @@ categories:
 date: 2020-07-14T23:00:00Z
 
 ---
-# [COLLECT ❑]()
+# [COLLECT ❑](https://knownorigin.io/gallery/193100-rise "Rise")
+
+Ξ 0.50 
