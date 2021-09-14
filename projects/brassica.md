@@ -1,10 +1,11 @@
 ---
-title: DELTA
-thumbnail: "../static/uploads/delta5.gif"
+title: BRASSICA
+thumbnail: "../static/uploads/brassica2.gif"
 year: "2021"
 categories:
+- 800x80
 - GIF
 date: 2021-09-13T23:00:00Z
 
 ---
-![](/uploads/delta5.gif)
+![](/uploads/brassica2.gif)
