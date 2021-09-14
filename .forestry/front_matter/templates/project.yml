@@ -26,8 +26,10 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- projects/..md
 - projects/3-sisters.md
 - projects/brassica.md
+- projects/breath1.md
 - projects/cma558.md
 - projects/correspondence.md
 - projects/cryptonite.md
