@@ -28,6 +28,7 @@ fields:
 pages:
 - projects/..md
 - projects/3-sisters.md
+- projects/amethyst.md
 - projects/brassica.md
 - projects/cma558.md
 - projects/correspondence.md
