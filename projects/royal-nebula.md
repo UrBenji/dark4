@@ -2,7 +2,8 @@
 title: Royal Nebula
 thumbnail: "../static/uploads/royalnebula.jpg"
 year: "2021"
-categories: []
+categories:
+- MP4
 date: 2021-10-14T23:00:00Z
 
 ---
