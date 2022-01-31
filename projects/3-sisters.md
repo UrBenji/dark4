@@ -7,9 +7,9 @@ categories:
 date: 2020-10-31T00:00:00Z
 
 ---
-# [COLLECT ❑]()
+# [COLLECT ❑](https://makersplace.com/urben/three-sisters-1-of-1-41592/)
 
-> Orion's belt or the belt of Orion, also known as the The Magi / Three Kings or Three Sisters. 
+> Orion's belt or the belt of Orion, also known as the The Magi / Three Kings or Three Sisters.
 >
 > It consists of the three bright stars Alnitak, Alnilam and Mintaka.
 >
