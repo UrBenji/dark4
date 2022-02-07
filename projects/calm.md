@@ -2,7 +2,8 @@
 title: calm
 thumbnail: "../static/uploads/calmpreview.png"
 year: "2022"
-categories: []
+categories:
+- MP4
 date: 2022-02-01T00:00:00Z
 
 ---
